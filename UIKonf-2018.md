@@ -71,7 +71,7 @@
 
 ## MVC is not your problem
 
-(Joachim Kurz)[https://twitter.com/cocoafrog]
+[Joachim Kurz](https://twitter.com/cocoafrog)
 
 - Apple says you should "split things into at least MVC".
 - Can have other kinds of controller, such as a "ModelController". A fetched results controller is like this.
