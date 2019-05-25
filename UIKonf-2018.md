@@ -1,5 +1,7 @@
 # UIKonf 2018
 
+Notes by [Luke Stringer](https://github.com/lukestringer90)
+
 [Website](http://www.uikonf.com)
 
 13th - 16th May 2018. 
