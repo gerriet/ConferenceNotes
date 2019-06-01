@@ -1,8 +1,8 @@
 # UIKonf 2019
 
-[Conference website](http://www.uikonf.com)
-
 Berlin, 26th - 29th May 2019. 
+
+[Conference website](http://www.uikonf.com)
 
 18 talks on main stage plus two talks on second stage, at least four workshops.
 
@@ -190,3 +190,7 @@ As a consequence of this she decided to get out of iOS and started her master on
 Finally she told us about a trip to Africa, where she learned how much people relied on smartphones (kind of skipped the PC phase) and how much apps are essential tools (payment) instead of irrelevant gadgets. Here she found examples of how apps were actually the best way to solve very real problems. 
 
 The takeaway was to consider our responsibility as developers to do the right thing for our users, to think about the impact our software makes on the world and be "a force of good".
+
+# PS
+
+If you spotted some inaccuracies, missing important points, misrepresenting the content, please give me [feedback](https://twitter.com/einbacker). See my [blog post](https://einbacker.com/uikonf-2019) where I give some general thoughts about the conference.
