@@ -10,7 +10,7 @@ __Organizers__:
 - [Sabine](https://twitter.com/sabinegeithner)
 - [Chrissy](https://twitter.com/post4chrissy)
 - [Engin](https://twitter.com/ekurutepe)
-- [Engin](https://twitter.com/ekurutepe)
+- [Julia](https://twitter.com/KallenbergJulia)
 - [Bianca](https://twitter.com/biancawalty) 
 
 # Resources
