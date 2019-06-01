@@ -25,6 +25,8 @@ Videos of the talks will be on the official [UIKonf youtube channel](https://you
 
 ## Inclusive and Accessible App Development
 
+![](./images/uikonf2019/kaya_thomas.jpg | width=300)
+
 [Kaya Thomas](https://twitter.com/kthomas901) has been at Apple, where she helped making XCode more accessible for blind developers, then worked at Slack and now at [Calm](https://www.calm.com).
 
 - __What__ are accessibility and inclusivity?
