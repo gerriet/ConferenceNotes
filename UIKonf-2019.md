@@ -159,7 +159,7 @@ Increasing the speed in her already fast-paced talk, she did a fun impression of
 
 ## A11y-oop - Adding new Accessibility Features to not-so-new Apps
 
-(Talk on Youtube)[https://www.youtube.com/watch?v=298NWlzb8WU]
+[Talk on Youtube](https://www.youtube.com/watch?v=298NWlzb8WU)
 
 [Alaina Kafkes](https://twitter.com/alainakafkes) is an iOS engineer at [Medium](https://medium.com). She talked about adding accessibility into existing apps and how important it is to create the right abstractions. Also: make specifications and seek feedback for them. Creating services that view controllers can subscribe to can make it more straightforward to update views for dynamic type or dark mode. These changes can only be made in a team-wide effort and can be a useful opportunity to improve the architecture.  
 
