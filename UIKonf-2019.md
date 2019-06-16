@@ -66,7 +66,7 @@ Shannon told us about two small-ish bugs around gesture recognizing in OmniGraff
 
 [Talk on Youtube](https://www.youtube.com/watch?v=WFtYn4g4Rqg)
 
-[Nataliya Patsovska](https://twitter.com/nataliya_bg) is a software developer at [iZettle](https://izettle.com) and previously worked at [Spotify](https://spotify.com). She explained the difference between imperative and declarative presentations and how to do the latter without something huge like [Flutter](https://flutter.dev)) or [React Native](https://www.reactnative.com) outside the world of Swift/UIKit. Instead she used the [Presentation framework](https://github.com/iZettle/Presentation) and did some very brave and impressive live coding. The idea is to regard view presentation as an asynchronous function and thus describing it as a declarative inferface with Promises/FutureResult. Among the advantages of working this way are improved testability and hiding some complexity.
+[Nataliya Patsovska](https://twitter.com/nataliya_bg) is a software developer at [iZettle](https://izettle.com) and previously worked at [Spotify](https://spotify.com). She explained the difference between imperative and declarative presentations and how to do the latter without something huge like [Flutter](https://flutter.dev) or [React Native](https://www.reactnative.com) outside the world of Swift/UIKit. Instead she used the [Presentation framework](https://github.com/iZettle/Presentation) and did some very brave and impressive live coding. The idea is to regard view presentation as an asynchronous function and thus describing it as a declarative inferface with Promises/FutureResult. Among the advantages of working this way are improved testability and hiding some complexity.
 
 [Slides](https://www.slideshare.net/NataliyaPatsovska/declarative-presentations-uikonf)
 
@@ -95,7 +95,7 @@ Also: don't forget right-to-left languages.
 
 ## Consistency Principle
 
-[https://www.youtube.com/watch?v=3HoCsq6ijWY](https://www.youtube.com/watch?v=3HoCsq6ijWY)
+[Talk on Youtube](https://www.youtube.com/watch?v=3HoCsq6ijWY)
 
 [Julie Yaunches](https://twitter.com/julieyaunches) tackled the problem of codebase longevity and sustaining a high velocity on a codebase. More or less the holy grail of software development. Beside the usual patterns, rules and recommendations, she developed the consistency principle as a guiding light for development. One main thing that leads to _rotting_ codebases that are difficult to understand and adapt are duplicated verticals. What usually happens is that at the start of the project you decide on a clean architecture with separate layers and a small number of technologies/frameworks/libraries/patterns for each layer. As time goes on, technical necessities, new people, and new ideas lead to the introduction of more patterns per layer. The problem is that most times one pattern is not completely replaced by another one but instead it is used for some parts, so both patterns co-exist. As this process goes on, to change something in one layer you have to understand and change multiple patterns/approaches. To avoid this she recommends not to "never change" but to view each layer as its own API and change the pattern once and for all so that the old one can be easily completely replaced. 
 
@@ -159,7 +159,7 @@ Increasing the speed in her already fast-paced talk, she did a fun impression of
 
 ## A11y-oop - Adding new Accessibility Features to not-so-new Apps
 
-[https://www.youtube.com/watch?v=298NWlzb8WU]
+(Talk on Youtube)[https://www.youtube.com/watch?v=298NWlzb8WU]
 
 [Alaina Kafkes](https://twitter.com/alainakafkes) is an iOS engineer at [Medium](https://medium.com). She talked about adding accessibility into existing apps and how important it is to create the right abstractions. Also: make specifications and seek feedback for them. Creating services that view controllers can subscribe to can make it more straightforward to update views for dynamic type or dark mode. These changes can only be made in a team-wide effort and can be a useful opportunity to improve the architecture.  
 
