@@ -23,6 +23,7 @@ Videos of most talks can be found on the official [UIKonf youtube channel](https
 
 Other takes:
 - [Blog post from Christian Huber](https://sanityresort.blogspot.com/2019/06/uikonf-2019.html)
+- [Blog post from Brad Leege](https://www.leege.io/2019/06/23/unikonf.html)
 
 # Talks
 
